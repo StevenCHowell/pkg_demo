@@ -6,10 +6,10 @@ The structure of the file should follow the patern
 
 ```
 repo_dir/
-    package_dir/
-        __init__.py
-        some_code.py
+    __init__.py
     setup.py
+    package_dir/
+        some_code.py
 ```
 
 To install this package in edit mode, run the command
